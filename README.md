@@ -3,11 +3,11 @@
 - 👨‍💻 **Software Developer with 1.5+ years of experience**
 - 🎓 **B.Tech in Computer Science** from SSIPMT Raipur
 - 🚀 **Passionate about continuous learning and growth**
-- 💻 **Full-stack expertise:** HTML, CSS, TailwindCSS, Bootstrap, JavaScript, React.js
+- 💻 **Front End expertise:** HTML, CSS, TailwindCSS, Bootstrap, JavaScript, React.js
 - 🌐 **Backend proficiency:** Node.js, Express.js, Python, Django, FastAPI
 - 🗄️ **Database skills:** SQL (MySQL, PostgreSQL), NoSQL (MongoDB)
 - 🤖 **Explored Generative AI:** LLMs, Langchain Embeddings, LLM Chains
-- 🔍 **Current role:** Software Developer at Value Research
+- 🔍 **Current role:** Software Developer at Product Based Company
 - 🌟 **Enthusiastic about building and learning new technologies**
   
 # 💻 Tech Stack:
